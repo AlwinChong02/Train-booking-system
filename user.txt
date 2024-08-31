@@ -1,0 +1,3 @@
+23001 , Alwin , alwin123@gmail.com , 1111qqqq , 0115667788 , Student
+2300124 , kee , kee@abc.com , keem1234 , 0124121234 , Senior Citizen
+3355 , er , @. , tttt6666 , 17267 , User
